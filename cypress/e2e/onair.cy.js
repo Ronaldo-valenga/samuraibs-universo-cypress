@@ -1,7 +1,7 @@
 
 
 it('webapp deve estar online', function(){
-    //um simples comentário
+    //um simples comentário dez
     cy.visit('/')
 
     cy.title()
